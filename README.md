@@ -33,6 +33,6 @@ https://forms.gle/Qq8XbPatBnYBx9Y56
                                                                 
 |           | felicità | rabbia | sorpresa | tristezza | paura |
 | --------- | -------- | ------ | -------- | --------- | ----- |
-| malvagio  | 0        | X      | 0        | 0         | X     |
+| malvagio  | 0        | [x]      | 0        | 0         | [x]     |
 | mela      | 0        | 0      | 0        | 0         | 0     |
-| amoruccio | X        | 0      | 0        | 0         | 0     |
+| amoruccio | [x]        | 0      | 0        | 0         | 0     |
