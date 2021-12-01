@@ -1,6 +1,6 @@
 # Test Emozioni e Sentiment Analysis
 
-Portare a termine uno dei due task proposti
+Portare a termine uno dei due task proposti. Ogni task è composto da due sezioni
 
 ## TASK 1
 
